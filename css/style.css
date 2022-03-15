@@ -1,0 +1,7 @@
+/* &display=swap */
+@import "null.css";
+
+.wrapper {
+	overflow: hidden;
+	min-height: 100%;
+}
